@@ -1,6 +1,6 @@
 # Code Per Minute - Typing Trainer for Programmers
 
-Code Per Minute is a JavaFX & CSS GUI application with the intent of providing users with an effective way of improving typing speeds in specific programming languages.
+Code Per Minute is a JavaFX & CSS GUI application with the intent of providing users with an effective way of improving typing speeds in any programming language. It utilizes both OOP and a JavaFX-oriented Model-View-Controller architecture to effectively display and manipulate UI elements.
 
 A critical aspect of learning to type faster is pattern recognition. While modern typing tests do a great job of covering common words and phrases, programming syntax is often very removed from traditional english/language. As such, gains in wpm on sites such as 10fastfingers.com and nitrotype.com may not carry over as well into c++ or Java.
 
