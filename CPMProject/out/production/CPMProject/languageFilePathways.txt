@@ -1,2 +1,0 @@
-Java:src/languageFiles/javaKeywords.txt
-C++:src/languageFiles/cppKeywords.txt
