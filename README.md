@@ -35,4 +35,8 @@ break
 Once you have created your language file, navigate to the languagefilePathways.txt file.
 Create a new line and add your language in the format of Language_Name:Language_File_Pathway
 
+Example: 
+
+Java:src/javaKeywords.txt
+
 After that, you're all good to go! Simply launch CPM. It will read languageFilePathways and configure your language automatically.
