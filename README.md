@@ -15,7 +15,7 @@ This process can be repeated for any number of categories and keywords/syntax yo
 
 Example:
 
-\~Data Creation / Manipulation
+\~Data Creation / Manipulation 
 int num = 0;
 
 char character = '\0';
