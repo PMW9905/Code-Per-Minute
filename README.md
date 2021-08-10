@@ -6,6 +6,18 @@ A critical aspect of learning to type faster is pattern recognition. While moder
 
 Code Per Minute exist to solve this problem. By orgaizing typing tests by language and category, CPM allows the user to easily practice subsets of a particular language, thus building muscle memory and pattern recognition for programming-specific syntax. A user may even create their own language files/categories to further expand their learning and practice.
 
+## In-Application Screenshots
+
+Main screen in dark theme:
+![Screenshot of Darkmode](Screenshots/CPM_DarkMode.PNG)
+
+Main screen in light theme:
+![Screenshot of Lightmode](Screenshots/CPM_LightMode.PNG)
+
+Results screen:
+![Screenshot of Lightmode](Screenshots/CPM_EndScreen.PNG)
+
+
 ## Adding Languages
 
 To add custom languages, first create a txt file that will contain the syntax you wish to add.
