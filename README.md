@@ -25,30 +25,25 @@ To create a category within the language file, first write a "\~" followed by th
 All keywords/syntax that you wish to be contained in this category should be placed on new lines, with no "\~" prefix.
 This process can be repeated for any number of categories and keywords/syntax you desire.
 
-Example:
-
-\~Data Creation / Manipulation 
+*Example:*
+```
+~Data Creation / Manipulation 
 int num = 0;
-
 char character = '\0';
-
 double decimal;
 
-\~Java Keywords
-
+~Java Keywords
 abstract
-
 assert
-
 boolean
+break 
+```
 
-break
+Once you have created your language file, navigate to the `languagefilePathways.txt` file. 
+Create a new line and add your language in the format of:
+```Language_Name:Language_File_Pathway```
 
-Once you have created your language file, navigate to the languagefilePathways.txt file.
-Create a new line and add your language in the format of Language_Name:Language_File_Pathway
+*Example:*
+- `Java:src/javaKeywords.txt`
 
-Example: 
-
-Java:src/javaKeywords.txt
-
-After that, you're all good to go! Simply launch CPM. It will read languageFilePathways and configure your language automatically.
+After that, you're all good to go! Simply launch CPM. It will read `languageFilePathways.txt` and configure your language automatically.
